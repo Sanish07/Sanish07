@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Sanish</h1>
 <h3 align="center">I'm a Student and aspiring Full Stack Developer!</h3>
-
+<br>
+<p align="center"><img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=blue-green&animation=default&layout=default&font=default&quoteCategory=motivational" alt="sanish07" /></p>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanish07&label=Profile%20views&color=0e75b6&style=flat" alt="sanish07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanish_p1" target="blank"><img src="https://img.shields.io/twitter/follow/sanish_p1?logo=twitter&style=for-the-badge" alt="sanish_p1" /></a> </p>
@@ -39,7 +41,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanish07&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="sanish07" /></p>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanish07&show_icons=true&locale=en&theme=synthwave" alt="sanish07" /></p>
-
 
 <!--
 **Sanish07/Sanish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
