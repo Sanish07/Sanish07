@@ -38,9 +38,9 @@
    </p>
 
 <br><br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanish07&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="sanish07" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanish07&show_icons=true&locale=en&layout=compact&theme=radical" alt="sanish07" /></p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanish07&show_icons=true&locale=en&theme=synthwave" alt="sanish07" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanish07&show_icons=true&locale=en&theme=radical" alt="sanish07" /></p>
 
 <!--
 **Sanish07/Sanish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
