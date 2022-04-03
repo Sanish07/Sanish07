@@ -38,10 +38,9 @@
    </p>
 
 <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanish07&show_icons=true&locale=en&layout=compact&theme=radical" alt="sanish07" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanish07&show_icons=true&locale=en&layout=compact&theme=radical" alt="sanish07" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanish07&show_icons=true&locale=en&theme=radical" alt="sanish07" /></p>
-
+<p align="center"><img  src="http://github-readme-streak-stats.herokuapp.com?user=Sanish07&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=DD9E2E" alt="sanish07" /></p>
 <!--
 **Sanish07/Sanish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
