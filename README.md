@@ -54,8 +54,8 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=npm&theme=light" alt="npmjs" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=idea" alt="ij_idea" width="40" height="40"/> </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="npmjs" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=idea" alt="ij_idea" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>
 
 </ul>
 
